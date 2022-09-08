@@ -3,7 +3,6 @@
 * {
   margin: 0;
   padding: 0;
-  font: roboto;
   list-style: none outside none;
 }
 
@@ -43,4 +42,28 @@ ul {
   width: 50%;
   justify-content: center;
   align-items: center;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: bolder;
+  color: #f9faf8;
+}
+
+.content-paragraph {
+  font-size: 18px;
+  color: #e5e7eb;
+  margin: 10px;
+}
+.content {
+  display: flex;
+  flex-direction: row;
+}
+
+.content-left,
+.content-right {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
 }
