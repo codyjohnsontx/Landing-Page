@@ -88,3 +88,11 @@ h1 {
 img {
   margin: 40px;
 }
+
+.information {
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1f2937;
+  display: flex;
+  justify-content: center;
+}
