@@ -55,7 +55,7 @@ h1 {
 .content-paragraph {
   font-size: 18px;
   color: #e5e7eb;
-  margin: 10px;
+  margin-left: 125px;
 }
 .content {
   display: flex;
@@ -67,14 +67,22 @@ h1 {
 .content-right {
   display: flex;
   justify-content: center;
-  align-content: center;
+  align-items: center;
   flex-direction: column;
-  width: 50%;
+  width: 60%;
 }
 
-.button {
+.sign-up {
+  background-color: #3882f6;
+  color: white;
+  width: 100px;
+  height: 35px;
+  border-radius: 10px;
   display: flex;
   justify-content: center;
+  align-items: center;
+  margin-left: -165px;
+  margin-top: 10px;
 }
 
 img {
