@@ -89,10 +89,14 @@ img {
   margin: 40px;
 }
 
-.information {
+h2 {
   font-size: 36px;
   font-weight: bolder;
   color: #1f2937;
+  text-align: center;
+}
+
+.row-of-blue-divs {
   display: flex;
-  justify-content: center;
+  flex-direction: row;
 }
