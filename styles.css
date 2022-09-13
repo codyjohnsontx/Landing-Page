@@ -96,7 +96,7 @@ h2 {
   text-align: center;
 }
 
-.row-of-blue-divs {
+.row-of-box-divs {
   display: flex;
   flex-direction: row;
 }
