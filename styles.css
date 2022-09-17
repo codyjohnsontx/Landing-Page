@@ -122,3 +122,33 @@ h2 {
   text-align: center;
   font-size: 18px;
 }
+
+h3 {
+  font-size: 36px;
+  font-style: italic;
+  font-weight: lighter;
+  font: #1f2937;
+  display: flex;
+  align-items: flex-start;
+  margin-left: 200px;
+}
+
+.third-section {
+  background-color: #e5e7eb;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.three {
+  font-size: 18px;
+  font-weight: bolder;
+  text-align: end;
+}
+
+#three-p {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 300px;
+}
